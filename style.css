@@ -13,7 +13,7 @@
   body {
     color: var(--2ndcolor);
     font-family: Helvetica, Arial, sans-serif;
-    background-image: url("/assets/images/388261.jpg");
+    background-image: url("assets/images/388261.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
